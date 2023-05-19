@@ -1,0 +1,25 @@
+{
+  "short_name": "TextUtils",
+  "name": "Create React App Sample",
+  "icons": [
+    {
+      "src": "textease.png",
+      
+      "type": "image/x-icon"
+    },
+    {
+      "src": "textease.png",
+      "type": "image/png"
+    
+    },
+    {
+      "src": "textease.png",
+      "type": "image/png"
+   
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
